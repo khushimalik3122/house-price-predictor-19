@@ -82,7 +82,7 @@ Contributions are welcome! If you'd like to collaborate, please fork the reposit
 For inquiries or collaboration opportunities, feel free to reach out:
 
 - **GitHub**: [khushimalik3122](https://github.com/khushimalik3122)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [khushimalik511263@gmail.com](khushimalik511263@gmail.com)
 
 ---
 
