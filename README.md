@@ -83,6 +83,7 @@ For inquiries or collaboration opportunities, feel free to reach out:
 
 - **GitHub**: [khushimalik3122](https://github.com/khushimalik3122)
 - **Email**: [khushimalik511263@gmail.com](mailto:khushimalik511263@gmail.com)
+- - **project link**: [[khushimalik511263@gmail.com](mailto:khushimalik511263@gmail.com](https://github.com/khushimalik3122/house-price-predictor-19/blob/main/house%20price%20predictor%20(2).ipynb))
 
 ---
 
